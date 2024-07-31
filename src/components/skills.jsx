@@ -6,9 +6,9 @@ export default function Skills(){
             <span className="spn-1">Yetenekler</span>
             <h1 className="h1-1">Neler yapabilirim?</h1>
             <div className="logo">
-                <image className="img-1" src="/html logo.jpg" alt=""/>
-                <image className="img-1" src="/css logo.jpg" alt=""/>
-                <image className="img-1" src="/js logo.jpg" alt="" class="java"/>
+                <Image className="img-1" src="/html logo.jpg" alt=""/>
+                <Image className="img-1" src="/css logo.jpg" alt=""/>
+                <Image className="img-1" src="/js logo.jpg" alt="" class="java"/>
             </div>
         </div>
 </>

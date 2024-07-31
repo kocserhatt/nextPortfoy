@@ -10,6 +10,6 @@ export default function HomePage() {
                     <a href="" className="btn btn-ghost">Explore More</a>
                 </div>
             </div>
-            <image src="/foto.png" alt="" className="right ben"/>
+            <Image src="/foto.png" alt="" className="right ben"/>
         </div>
     )}
