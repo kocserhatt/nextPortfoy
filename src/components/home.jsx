@@ -1,5 +1,3 @@
-import Image from 'next/image'
-
 export default function HomePage() {   
     return (
         <div id="anasayfa" className="home">
@@ -12,6 +10,6 @@ export default function HomePage() {
                     <a href="" className="btn btn-ghost">Explore More</a>
                 </div>
             </div>
-            <Image src="/foto.png" alt="" className="right ben"/>
+            <img src="/foto.png" alt="" className="right ben"/>
         </div>
     )}

@@ -1,9 +1,7 @@
-import Image from 'next/image'
-
 export default function About() {
     return(
         <div id="hakkimda" className="about">
-            <Image src="/Code typing-amico 1.png" alt="" className="right"/>
+            <img src="/CodeTypinGamico1.png" alt="" className="right"/>
             <div className="left">
                 <span className="about-span">Hakkında</span>
                 <h1 className="about-header">Benim hakkımda?</h1>
