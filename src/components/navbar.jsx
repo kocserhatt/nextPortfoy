@@ -1,3 +1,5 @@
+import Image from 'next/image'
+
 export default function Navbar() {
     return (
         <div className="container">
@@ -11,7 +13,7 @@ export default function Navbar() {
                 <li><a href="#projeler" className="item">Projeler</a></li>
                 <li><a href="#baglantilar" className="item">Bağlantılar</a></li>
             </ul>
-            <img src="/Group.svg" alt="" className="hamburger-menu" />
+            <Image src="/Group.svg" alt="" className="hamburger-menu" width={300} height={300} />
         </div>
     </div>    
 </div>

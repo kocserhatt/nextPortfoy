@@ -1,4 +1,4 @@
-
+import Image from 'next/image'
 
 export default function Skills(){
 
@@ -8,9 +8,9 @@ export default function Skills(){
             <span className="spn-1">Yetenekler</span>
             <h1 className="h1-1">Neler yapabilirim?</h1>
             <div className="logo">
-                <img className="img-1" src="/htmlLogo.jpg" alt=""/>
-                <img className="img-1" src="/cssLogo.jpg" alt=""/>
-                <img className="img-1 java" src="/jsLogo.jpg" alt=""/>
+                <Image className="img-1" src="/htmlLogo.jpg" alt="" width={300} height={300}/>
+                <Image className="img-1" src="/cssLogo.jpg" alt="" width={300} height={300}/>
+                <Image className="img-1 java" src="/jsLogo.jpg" alt="" width={300} height={300}/>
             </div>
         </div>
 </>
