@@ -11,7 +11,7 @@ export default function Navbar() {
                 <li><a href="#projeler" className="item">Projeler</a></li>
                 <li><a href="#baglantilar" className="item">Bağlantılar</a></li>
             </ul>
-            <img src="/Group.svg" alt="" className="hamburger-menu" />
+            <image src="/Group.svg" alt="" className="hamburger-menu" />
         </div>
     </div>    
 </div>
