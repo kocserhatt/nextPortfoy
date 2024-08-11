@@ -23,21 +23,21 @@ export default function Projects(){
                 </a>
                 <a href="https://kocserhatt.github.io/github-card/">
                     <div className="card">   
-                        <Image className="image-2" src="/githubCard.png" alt="" width={300} height={300}/>
+                        <Image className="image-2" src="/githubCard.png" alt="" width={100} height={100}/>
                         <h2 className="h2-1">Github Card</h2>
                         <p className="p-1">Serhat Koc GitHub Kart</p>
                     </div>
                 </a>
                 <a href="https://kocserhatt.github.io/memory-game/">
                     <div className="card">   
-                        <Image className="image-2" src="/hafizaOyunu.png" alt="" width={300} height={300}/>
+                        <Image className="image-2" src="/hafizaOyunu.png" alt="" width={100} height={100}/>
                         <h2 className="h2-1">memory-game</h2>
                         <p className="p-1">Hafıza Oyunu</p>
                     </div>
                 </a>
                 <a href="https://kocserhatt.github.io/akademi-sinav/">
                     <div className="card">   
-                        <Image className="image-2" src="/sinav.png" alt="" width={300} height={300}/>
+                        <Image className="image-2" src="/sinav.png" alt="" width={100} height={100}/>
                         <h2 className="h2-1">responsive-tasarim</h2>
                         <p className="p-1">Figma responsive tasarım çalışması.</p>
                     </div>
